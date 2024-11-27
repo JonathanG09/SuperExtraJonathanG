@@ -1,0 +1,41 @@
+
+/*estilos de navbar*/
+.navbar{
+    background-color: #78b621;
+    height: 100px;
+    padding: 0 auto;
+}
+
+.logonavbar{
+    margin-right: 20px;
+}
+
+.navbar-brand{
+    font-weight: bold;
+    color: white !important;
+}
+
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 55px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+h2 span{
+    font-weight: bolder;
+}
+
+.card{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 0 auto;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4);
+}
+ 
+footer {
+    background-color: #78b621 ;
+    height: 100px;
+    padding: 0 auto;
+}
